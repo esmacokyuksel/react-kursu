@@ -10,4 +10,12 @@ Gün gün react kursunda öğrendiklerimi kaydedip atacağım.
    -destructuring
    -reference ve primitive tipler
 
+2. gün:
+   -component stillendirme
+   -react içinde js
+   -props
+   -dinamik props
+   -props.children
+   
+
    
