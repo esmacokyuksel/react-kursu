@@ -16,6 +16,14 @@ Gün gün react kursunda öğrendiklerimi kaydedip atacağım.
    -props
    -dinamik props
    -props.children
+3. gün:
+   -Eventlerle çalışmak
+   -React state mantığı
+   -useState Hooks
+   -Birden fazla state ile çalışmak
+   -Çoklu stateleri tek state içinde yazmak
+   -form onSubmit işlemi
+   -Two-way Binding
    
 
    
