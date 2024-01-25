@@ -24,6 +24,11 @@ Gün gün react kursunda öğrendiklerimi kaydedip atacağım.
    -Çoklu stateleri tek state içinde yazmak
    -form onSubmit işlemi
    -Two-way Binding
-   
+4. gün:
+   -filter ile ürün silme
+   -map metodu
+   -react key
+   -conditional content
+   conditional state
 
    
