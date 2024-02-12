@@ -1,34 +1,8 @@
-# react-kursu
-Gün gün react kursunda öğrendiklerimi kaydedip atacağım.
+# React + Vite
 
-1. gün:
-   -var let ve const keyword
-   -arrow function
-   -export ve import modules
-   -classları anlamak
-   -spread ve rest operatörleri
-   -destructuring
-   -reference ve primitive tipler
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-2. gün:
-   -component stillendirme
-   -react içinde js
-   -props
-   -dinamik props
-   -props.children
-3. gün:
-   -Eventlerle çalışmak
-   -React state mantığı
-   -useState Hooks
-   -Birden fazla state ile çalışmak
-   -Çoklu stateleri tek state içinde yazmak
-   -form onSubmit işlemi
-   -Two-way Binding
-4. gün:
-   -filter ile ürün silme
-   -map metodu
-   -react key
-   -conditional content
-   conditional state
+Currently, two official plugins are available:
 
-   
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
